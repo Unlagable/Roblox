@@ -67,6 +67,7 @@ constexpr std::uint32_t datamodel = 0x1B8;
 constexpr std::uint32_t humanoid_instance = 0x60;
 constexpr std::uint32_t brightness_2 = 0xad;
 constexpr std::uint32_t autojumpenable = 0x1cc;			//false = 01010100; t = 01010101
+constexpr std::uint32_t platform_stand = 0x1D2;
 
 constexpr std::uint32_t velocity = 0x14C;
 constexpr std::uint32_t position = 0x140;
