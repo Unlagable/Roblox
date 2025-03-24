@@ -45,7 +45,6 @@ constexpr std::uint32_t camera_fov = 0x148;
 constexpr std::uint32_t input_object_from_mouse = 0x170;
 
 constexpr std::uint32_t mouse_x = 0xEC;
-constexpr std::uint32_t mouse_y = mouse_x + 0x4;
 
 constexpr std::uint32_t anchored = 0x309;
 constexpr std::uint32_t can_collide = 0x310;
@@ -62,7 +61,6 @@ constexpr std::uint32_t walkspeed_a = 0x1d0;
 constexpr std::uint32_t walkspeed_b = 0x3a8;
 constexpr std::uint32_t armor = 0xD0;
 constexpr std::uint32_t jumppower = 0x1B0;
-constexpr std::uint32_t jumpheight = 0x1B0 - 0x8;
 constexpr std::uint32_t hipheight = 0x1A0;
 constexpr std::uint32_t ping = 0xC0;
 constexpr std::uint32_t datamodel = 0x1B8;
