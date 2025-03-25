@@ -4,7 +4,7 @@ constexpr std::uint32_t ts_fin = 0x1d8;
 constexpr std::uint32_t js_N = 0x90;
 
 constexpr std::uint32_t rdv = 0x218;
-constexpr std::uint32_t rdve = 0x10;
+constexpr std::uint32_t rde = 0x10;
 constexpr std::uint32_t dm0 = 0x120;
 constexpr std::uint32_t dmx = 0x1B8;
 
@@ -75,6 +75,6 @@ constexpr std::uint32_t position = 0x140;
 constexpr std::uint32_t move_direction = 0x158;
 constexpr std::uint32_t primsize = 0x2b4;
 constexpr std::uint32_t basepartsize = 0x2ac;
-constexpr std::uint32_t cframe = 0x11c;
-constexpr std::uint32_t rotation = 0x11c;
+constexpr std::uint32_t cframe_ = 0x11c;
+constexpr std::uint32_t rotation_ = 0x11c;
 constexpr std::uint32_t rotation_velocity = 0x158;
