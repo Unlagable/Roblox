@@ -14,10 +14,10 @@ constexpr std::uint32_t displayname = 0x110;
 constexpr std::uint32_t children = 0x78;
 constexpr std::uint32_t parent = 0x50;
 constexpr std::uint32_t local_player = 0x120;
-constexpr std::uint32_t model_instance = 0x2D0;
+constexpr std::uint32_t model_instance = 0x2E0;
 constexpr std::uint32_t primitive = 0x168;
 constexpr std::uint32_t dimensions = 0x740;
-constexpr std::uint32_t viewmatrix = 0x4D0;
+constexpr std::uint32_t viewmatrix = 0x4D4;
 
 constexpr std::uint32_t classname = 0x18;
 constexpr std::uint32_t health = 0x194;
