@@ -15,6 +15,7 @@ constexpr std::uint32_t children = 0x78;
 constexpr std::uint32_t parent = 0x50;
 constexpr std::uint32_t local_player = 0x120;
 constexpr std::uint32_t model_instance = 0x2E0;
+constexpr std::uint32_t model_instanc2 = 0x250;
 constexpr std::uint32_t primitive = 0x168;
 constexpr std::uint32_t dimensions = 0x740;
 constexpr std::uint32_t viewmatrix = 0x4D0;
