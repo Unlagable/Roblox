@@ -1,4 +1,4 @@
-constexpr std::uint32_t ts = 0x625C4C8;
+constexpr std::uint32_t ts = 0x62A17B8;
 constexpr std::uint32_t ts_st = 0x1d0;
 constexpr std::uint32_t ts_fin = 0x1d8;
 constexpr std::uint32_t js_N = 0x90;
