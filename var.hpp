@@ -38,9 +38,9 @@ constexpr std::uint32_t input_obj = 0x110;
 
 constexpr std::uint32_t camera_pos = 0x104;
 constexpr std::uint32_t camera = 0x3F0;
-constexpr std::uint32_t camera_rotation = 0xE0;
-constexpr std::uint32_t camera_cframe = 0xE0;
-constexpr std::uint32_t camera_fov = 0x148;
+constexpr std::uint32_t camera_rotation = 0xF8;
+constexpr std::uint32_t camera_cframe = 0xF8;
+constexpr std::uint32_t camera_fov = 0x160;
 
 constexpr std::uint32_t inp_obj_mouse = 0x170;
 constexpr std::uint32_t input_object_from_mouse = 0x170;
