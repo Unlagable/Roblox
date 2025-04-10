@@ -9,14 +9,14 @@ constexpr std::uint32_t dm0 = 0x120;
 constexpr std::uint32_t dmx = 0x1B8;
 
 constexpr std::uint32_t size = 0x8;
-constexpr std::uint32_t name = 0x70;
+constexpr std::uint32_t name = 0x78;
 constexpr std::uint32_t displayname = 0x110;
-constexpr std::uint32_t children = 0x78;
+constexpr std::uint32_t children = 0x80;
 constexpr std::uint32_t parent = 0x50;
-constexpr std::uint32_t local_player = 0x120;
-constexpr std::uint32_t model_instance = 0x2E0;
-constexpr std::uint32_t model_instanc2 = 0x250;
-constexpr std::uint32_t primitive = 0x168;
+constexpr std::uint32_t local_player = 0x128;
+constexpr std::uint32_t model_instance = 0x2E8;
+constexpr std::uint32_t model_instanc2 = 0x258;
+constexpr std::uint32_t primitive = 0x170;
 constexpr std::uint32_t dimensions = 0x740;
 constexpr std::uint32_t viewmatrix = 0x4D0;
 
@@ -31,9 +31,9 @@ constexpr std::uint32_t gameid = 0x168;
 constexpr std::uint32_t placeid = 0x178;
 constexpr std::uint32_t jobid = 0x118;
 
-constexpr std::uint32_t user_input_service = 0x398;
-constexpr std::uint32_t mouse_service = 0x278;
-constexpr std::uint32_t input_obj = 0x110;
+constexpr std::uint32_t user_input_service = 0x3a0;
+constexpr std::uint32_t mouse_service = 0x280;
+constexpr std::uint32_t input_obj = 0x118;
 
 
 constexpr std::uint32_t camera_pos = 0x11C;
@@ -45,8 +45,8 @@ constexpr std::uint32_t camera_fov = 0x160;
 constexpr std::uint32_t inp_obj_mouse = 0x170;
 constexpr std::uint32_t input_object_from_mouse = 0x170;
 
-constexpr std::uint32_t mouse_x = 0xEC;
-constexpr std::uint32_t mouse_y = 0xF0;
+constexpr std::uint32_t mouse_x = 0xF4;
+constexpr std::uint32_t mouse_y = 0xF8;
 
 constexpr std::uint32_t anchored = 0x309;
 constexpr std::uint32_t can_collide = 0x310;
