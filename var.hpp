@@ -21,8 +21,8 @@ constexpr std::uint32_t dimensions = 0x740;
 constexpr std::uint32_t viewmatrix = 0x4D0;
 
 constexpr std::uint32_t classname = 0x18;
-constexpr std::uint32_t health = 0x194;
-constexpr std::uint32_t max_health = 0x1B4;
+constexpr std::uint32_t health = 0x19C;
+constexpr std::uint32_t max_health = 0x1BC;
 constexpr std::uint32_t walkspeed = 0x1d0;
 constexpr std::uint32_t walkspeed_2 = 0x3a8;
 constexpr std::uint32_t team = 0x210;
