@@ -73,7 +73,7 @@ constexpr std::uint32_t platform_stand = 0x1D2;
 
 constexpr std::uint32_t velocity = 0x14C;
 constexpr std::uint32_t position = 0x140;
-constexpr std::uint32_t move_direction = 0x158;
+constexpr std::uint32_t move_direction = 0x160;
 constexpr std::uint32_t primsize = 0x2b4;
 constexpr std::uint32_t basepartsize = 0x2ac;
 constexpr std::uint32_t cframe_ = 0x11c;
