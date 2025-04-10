@@ -27,20 +27,20 @@ constexpr std::uint32_t walkspeed = 0x1d0;
 constexpr std::uint32_t walkspeed_2 = 0x3a8;
 constexpr std::uint32_t team = 0x210;
 constexpr std::uint32_t team_data = 0x118;
-constexpr std::uint32_t gameid = 0x168;
-constexpr std::uint32_t placeid = 0x178;
-constexpr std::uint32_t jobid = 0x118;
+constexpr std::uint32_t gameid = 0x170;
+constexpr std::uint32_t placeid = 0x180;
+constexpr std::uint32_t jobid = 0x120;
 
 constexpr std::uint32_t user_input_service = 0x3a0;
 constexpr std::uint32_t mouse_service = 0x280;
 constexpr std::uint32_t input_obj = 0x118;
 
 
-constexpr std::uint32_t camera_pos = 0x11C;
-constexpr std::uint32_t camera = 0x3F0;
-constexpr std::uint32_t camera_rotation = 0xF8;
-constexpr std::uint32_t camera_cframe = 0xF8;
-constexpr std::uint32_t camera_fov = 0x160;
+constexpr std::uint32_t camera_pos = 0x124;
+constexpr std::uint32_t camera = 0x3F8;
+constexpr std::uint32_t camera_rotation = 0x100;
+constexpr std::uint32_t camera_cframe = 0x100;
+constexpr std::uint32_t camera_fov = 0x168;
 
 constexpr std::uint32_t inp_obj_mouse = 0x170;
 constexpr std::uint32_t input_object_from_mouse = 0x170;
@@ -59,11 +59,11 @@ constexpr std::uint32_t user_id = 0x210;
 
 
 constexpr std::uint32_t mouse = 0xAF8;
-constexpr std::uint32_t walkspeed_a = 0x1d0;
-constexpr std::uint32_t walkspeed_b = 0x3a8;
+constexpr std::uint32_t walkspeed_a = 0x1d8;
+constexpr std::uint32_t walkspeed_b = 0x3b0;
 constexpr std::uint32_t armor = 0xD0;
-constexpr std::uint32_t jumppower = 0x1B0;
-constexpr std::uint32_t hipheight = 0x1A0;
+constexpr std::uint32_t jumppower = 0x1B8;
+constexpr std::uint32_t hipheight = 0x1A8;
 constexpr std::uint32_t ping = 0xC0;
 constexpr std::uint32_t datamodel = 0x1B8;
 constexpr std::uint32_t humanoid_instance = 0x60;
