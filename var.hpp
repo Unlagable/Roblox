@@ -28,10 +28,10 @@ constexpr std::uint32_t walkspeed_2 = 0x3a8;
 constexpr std::uint32_t team = 0x218;
 constexpr std::uint32_t team_data = 0x120;
 constexpr std::uint32_t gameid = 0x170;
-constexpr std::uint32_t placeid = 0x180;
-constexpr std::uint32_t jobid = 0x120;
+constexpr std::uint32_t placeid = 0x1A0;
+constexpr std::uint32_t jobid = 0x140;
 
-constexpr std::uint32_t user_input_service = 0x3a0;
+constexpr std::uint32_t user_input_service = 0x3C0;
 constexpr std::uint32_t mouse_service = 0x280;
 constexpr std::uint32_t input_obj = 0x118;
 
