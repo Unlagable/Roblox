@@ -1,7 +1,7 @@
 constexpr std::uint32_t ts = 0x6375108;
-constexpr std::uint32_t ts_st = 0x1d8;
-constexpr std::uint32_t ts_fin = 0x1e0;
-constexpr std::uint32_t js_N = 0x90;
+constexpr std::uint32_t ts_st = 0x1d0;
+constexpr std::uint32_t ts_fin = 0x1d8;
+constexpr std::uint32_t js_N = 0x18;
 
 constexpr std::uint32_t rdv = 0x218;
 constexpr std::uint32_t rde = 0x10;
