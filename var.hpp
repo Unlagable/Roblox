@@ -32,7 +32,7 @@ constexpr std::uint32_t placeid = 0x1A0;
 constexpr std::uint32_t jobid = 0x140;
 
 constexpr std::uint32_t user_input_service = 0x3C0;
-constexpr std::uint32_t mouse_service = 0x280;
+constexpr std::uint32_t mouse_service = 0x288;
 constexpr std::uint32_t input_obj = 0x118;
 
 
