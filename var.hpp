@@ -60,7 +60,7 @@ constexpr std::uint32_t user_id = 0x210;
 
 constexpr std::uint32_t mouse = 0xAF8;
 constexpr std::uint32_t walkspeed_a = 0x1d8;
-constexpr std::uint32_t walkspeed_b = 0x3b0;
+constexpr std::uint32_t walkspeed_b = 0x3a8;
 constexpr std::uint32_t armor = 0xD8;
 constexpr std::uint32_t jumppower = 0x1B8;
 constexpr std::uint32_t hipheight = 0x1A8;
